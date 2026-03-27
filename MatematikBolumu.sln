@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36811.4 d17.14
+VisualStudioVersion = 17.14.36811.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "İlkDers", "İlkDers\İlkDers.csproj", "{DC62F4F0-230D-4065-9878-308513BE1511}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "turdonusumleri", "turdonusumleri\turdonusumleri.csproj", "{902F2419-053B-4D8D-9D2C-BAF8486A7665}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp1", "WinFormsApp1\WinFormsApp1.csproj", "{56B050D4-80E8-4367-960B-BD2662951104}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{DC62F4F0-230D-4065-9878-308513BE1511}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC62F4F0-230D-4065-9878-308513BE1511}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC62F4F0-230D-4065-9878-308513BE1511}.Release|Any CPU.Build.0 = Release|Any CPU
+		{902F2419-053B-4D8D-9D2C-BAF8486A7665}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{902F2419-053B-4D8D-9D2C-BAF8486A7665}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{902F2419-053B-4D8D-9D2C-BAF8486A7665}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{902F2419-053B-4D8D-9D2C-BAF8486A7665}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56B050D4-80E8-4367-960B-BD2662951104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56B050D4-80E8-4367-960B-BD2662951104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56B050D4-80E8-4367-960B-BD2662951104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56B050D4-80E8-4367-960B-BD2662951104}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
